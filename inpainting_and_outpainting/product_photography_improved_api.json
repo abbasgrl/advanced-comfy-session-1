@@ -133,7 +133,7 @@
     },
     "20": {
         "inputs": {
-            "seed": 654689829781574,
+            "seed": 1111844833444392,
             "steps": 20,
             "cfg": 8,
             "sampler_name": "euler",
@@ -359,7 +359,7 @@
     },
     "35": {
         "inputs": {
-            "seed": 786506531041769,
+            "seed": 1033279096196826,
             "steps": 40,
             "cfg": 2,
             "sampler_name": "dpmpp_2m_sde",
@@ -778,7 +778,6 @@
     "65": {
         "inputs": {
             "image": "example.png",
-            "upload": "image",
             "label": "Input Product Image"
         },
         "class_type": "FSLoadImage",
